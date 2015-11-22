@@ -11,7 +11,7 @@ angular.module('app.routes', [])
       
         
     .state('classProjectAssistant', {
-      url: '/',
+      url: '/home',
       templateUrl: 'templates/classProjectAssistant.html',
       controller: 'classProjectAssistantCtrl'
     })
@@ -214,6 +214,16 @@ angular.module('app.routes', [])
       url: '/project/teams/team/members',
       templateUrl: 'templates/teamMembers.html',
       controller: 'teamMembersCtrl'
+    })
+        
+      
+    
+      
+        
+    .state('', {
+      url: '/',
+      templateUrl: 'templates/.html',
+      controller: 'Ctrl'
     })
         
       

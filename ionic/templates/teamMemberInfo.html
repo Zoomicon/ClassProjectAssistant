@@ -1,27 +1,27 @@
-<ion-view style="" title="Team Member Info">
-    <ion-content class="has-header" padding="true">
-        <form style="" class="list">
-            <label style="" name="SelectClass" class="item item-select">
+<ion-view title="Team Member Info">
+    <ion-content padding="'true'" class="has-header">
+        <form class="list">
+            <label class="item item-select" name="SelectClass">
                 <span class="input-label">Class:</span>
                 <select></select>
             </label>
-            <label style="" name="SelectStudent" class="item item-select">
+            <label class="item item-select" name="SelectStudent">
                 <span class="input-label">Student:</span>
                 <select></select>
             </label>
         </form>
-        <form style="" class="list">
-            <ion-toggle style="" name="IsOrganizer" toggle-class="toggle-royal" ng-checked="true">Organizer (O)</ion-toggle>
-            <ion-toggle style="" name="IsResourceManager" toggle-class="toggle-royal">Resource Manager (RM)</ion-toggle>
-            <ion-toggle style="" name="IsEditor" toggle-class="toggle-royal" ng-checked="true">Editor (E)</ion-toggle>
-            <ion-toggle style="" name="IsHelper" toggle-class="toggle-royal">Helper (H)</ion-toggle>
-            <ion-toggle style="" name="IsReporter" toggle-class="toggle-royal">Reporter (R)</ion-toggle>
-            <div style="" class="button-bar">
-                <a style="" class="button button-royal button-block  icon-left ion-android-star" href="#/project/teams/team/members/member/rating/organizer">O</a>
-                <a style="" class="button button-dark button-block " href="#/project/teams/team/members/member/rating/resourcemanager">RM</a>
-                <a style="" class="button button-royal button-block " href="#/project/teams/team/members/member/rating/editor">E</a>
-                <a style="" class="button button-dark button-block " href="#/project/teams/team/members/member/rating/helper">H</a>
-                <a style="" class="button button-dark button-block " href="#/project/teams/team/members/member/rating/reporter">R</a>
+        <form class="list">
+            <ion-toggle toggle-class="toggle-royal" ng-checked="true" name="IsOrganizer">Organizer (O)</ion-toggle>
+            <ion-toggle toggle-class="toggle-royal" name="IsResourceManager">Resource Manager (RM)</ion-toggle>
+            <ion-toggle toggle-class="toggle-royal" ng-checked="true" name="IsEditor">Editor (E)</ion-toggle>
+            <ion-toggle toggle-class="toggle-royal" name="IsHelper">Helper (H)</ion-toggle>
+            <ion-toggle toggle-class="toggle-royal" name="IsReporter">Reporter (R)</ion-toggle>
+            <div class="button-bar">
+                <a menu-close="" href="#/project/teams/team/members/member/rating/organizer" class="button button-royal button-block  icon-left ion-android-star">O</a>
+                <a menu-close="" href="#/project/teams/team/members/member/rating/resourcemanager" class="button button-dark button-block ">RM</a>
+                <a menu-close="" href="#/project/teams/team/members/member/rating/editor" class="button button-royal button-block ">E</a>
+                <a menu-close="" href="#/project/teams/team/members/member/rating/helper" class="button button-dark button-block ">H</a>
+                <a menu-close="" href="#/project/teams/team/members/member/rating/reporter" class="button button-dark button-block ">R</a>
             </div>
         </form>
     </ion-content>
