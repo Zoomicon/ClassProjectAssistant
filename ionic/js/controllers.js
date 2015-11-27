@@ -87,4 +87,8 @@ angular.module('app.controllers', [])
 .controller('Ctrl', function($scope) {
 
 })
+   
+.controller('reportCtrl', function($scope) {
+
+})
  

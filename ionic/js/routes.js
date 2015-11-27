@@ -21,7 +21,7 @@ angular.module('app.routes', [])
       
         
     .state('classInfo', {
-      url: '/class',
+      url: '/classes/class',
       templateUrl: 'templates/classInfo.html',
       controller: 'classInfoCtrl'
     })
@@ -31,7 +31,7 @@ angular.module('app.routes', [])
       
         
     .state('studentInfo', {
-      url: '/class/student',
+      url: '/classes/class/student',
       templateUrl: 'templates/studentInfo.html',
       controller: 'studentInfoCtrl'
     })
@@ -81,7 +81,7 @@ angular.module('app.routes', [])
       
         
     .state('projectTasks', {
-      url: '/project/tasks',
+      url: '/projects/project/tasks',
       templateUrl: 'templates/projectTasks.html',
       controller: 'projectTasksCtrl'
     })
@@ -91,7 +91,7 @@ angular.module('app.routes', [])
       
         
     .state('projectTeams', {
-      url: '/project/teams',
+      url: '/projects/project/teams',
       templateUrl: 'templates/projectTeams.html',
       controller: 'projectTeamsCtrl'
     })
@@ -101,7 +101,7 @@ angular.module('app.routes', [])
       
         
     .state('teamInfo', {
-      url: '/project/teams/team',
+      url: '/projects/project/teams/team',
       templateUrl: 'templates/teamInfo.html',
       controller: 'teamInfoCtrl'
     })
@@ -111,7 +111,7 @@ angular.module('app.routes', [])
       
         
     .state('projectDescription', {
-      url: '/project/description',
+      url: '/projects/project/description',
       templateUrl: 'templates/projectDescription.html',
       controller: 'projectDescriptionCtrl'
     })
@@ -121,7 +121,7 @@ angular.module('app.routes', [])
       
         
     .state('projectInfo', {
-      url: '/project',
+      url: '/projects/project',
       templateUrl: 'templates/projectInfo.html',
       controller: 'projectInfoCtrl'
     })
@@ -131,7 +131,7 @@ angular.module('app.routes', [])
       
         
     .state('taskInfo', {
-      url: '/project/tasks/task',
+      url: '/projects/project/tasks/task',
       templateUrl: 'templates/taskInfo.html',
       controller: 'taskInfoCtrl'
     })
@@ -141,7 +141,7 @@ angular.module('app.routes', [])
       
         
     .state('teamMemberInfo', {
-      url: '/project/teams/team/members/member',
+      url: '/projects/project/teams/team/members/member',
       templateUrl: 'templates/teamMemberInfo.html',
       controller: 'teamMemberInfoCtrl'
     })
@@ -151,7 +151,7 @@ angular.module('app.routes', [])
       
         
     .state('rating-ResourceManager', {
-      url: '/project/teams/team/members/member/rating/resourcemanager',
+      url: '/projects/project/teams/team/members/member/rating/resourcemanager',
       templateUrl: 'templates/rating-ResourceManager.html',
       controller: 'rating-ResourceManagerCtrl'
     })
@@ -161,7 +161,7 @@ angular.module('app.routes', [])
       
         
     .state('rating-Team', {
-      url: '/project/teams/team/rating',
+      url: '/projects/project/teams/team/rating',
       templateUrl: 'templates/rating-Team.html',
       controller: 'rating-TeamCtrl'
     })
@@ -171,7 +171,7 @@ angular.module('app.routes', [])
       
         
     .state('rating-Reporter', {
-      url: '/project/teams/team/members/member/rating/reporter',
+      url: '/projects/project/teams/team/members/member/rating/reporter',
       templateUrl: 'templates/rating-Reporter.html',
       controller: 'rating-ReporterCtrl'
     })
@@ -181,7 +181,7 @@ angular.module('app.routes', [])
       
         
     .state('rating-Organizer', {
-      url: '/project/teams/team/members/member/rating/organizer',
+      url: '/projects/project/teams/team/members/member/rating/organizer',
       templateUrl: 'templates/rating-Organizer.html',
       controller: 'rating-OrganizerCtrl'
     })
@@ -191,7 +191,7 @@ angular.module('app.routes', [])
       
         
     .state('rating-Editor', {
-      url: '/project/teams/team/members/member/rating/editor',
+      url: '/projects/project/teams/team/members/member/rating/editor',
       templateUrl: 'templates/rating-Editor.html',
       controller: 'rating-EditorCtrl'
     })
@@ -201,7 +201,7 @@ angular.module('app.routes', [])
       
         
     .state('rating-Helper', {
-      url: '/project/teams/team/members/member/rating/helper',
+      url: '/projects/project/teams/team/members/member/rating/helper',
       templateUrl: 'templates/rating-Helper.html',
       controller: 'rating-HelperCtrl'
     })
@@ -211,7 +211,7 @@ angular.module('app.routes', [])
       
         
     .state('teamMembers', {
-      url: '/project/teams/team/members',
+      url: '/projects/project/teams/team/members',
       templateUrl: 'templates/teamMembers.html',
       controller: 'teamMembersCtrl'
     })
@@ -224,6 +224,16 @@ angular.module('app.routes', [])
       url: '/',
       templateUrl: 'templates/.html',
       controller: 'Ctrl'
+    })
+        
+      
+    
+      
+        
+    .state('report', {
+      url: '/projects/projects/project/report',
+      templateUrl: 'templates/report.html',
+      controller: 'reportCtrl'
     })
         
       
