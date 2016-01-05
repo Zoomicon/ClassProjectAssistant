@@ -230,10 +230,10 @@ angular.module('app.routes', [])
     
       
         
-    .state('report', {
+    .state('projectReport', {
       url: '/projects/projects/project/report',
-      templateUrl: 'templates/report.html',
-      controller: 'reportCtrl'
+      templateUrl: 'templates/projectReport.html',
+      controller: 'projectReportCtrl'
     })
         
       
