@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GEORGE-LAPTOP</Machine>
+    <WindowsUser>George</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f77f206d-c94f-38f9-dd7a-d11c3d5cfe2a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0403CD7DD41628305CC9813CCDFE0D5789FBCC375A9D26C482C9E48210A5DCDA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f77f206d-c94f-38f9-dd7a-d11c3d5cfe2a_1.0.0.0_neutral__yzekw4x8qxe1g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f77f206d-c94f-38f9-dd7a-d11c3d5cfe2a_yzekw4x8qxe1g!CPA</RegisteredUserModeAppID>
+    <RegisteredPackageID>f77f206d-c94f-38f9-dd7a-d11c3d5cfe2a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=user</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T23:07:01.705</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\BadgeLogo.scale-400.png">
+      <PackagePath>images\BadgeLogo.scale-400.png</PackagePath>
+      <Modified>2016-03-22T21:49:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:49:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:50:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:49:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:49:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:49:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\StoreLogo.scale-400.png">
+      <PackagePath>images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:49:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T21:49:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-22T23:07:01.584</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

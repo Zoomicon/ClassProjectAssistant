@@ -1,0 +1,15 @@
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bin\Debug\ReverseMap\resources.pri
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bin\Debug\AppxManifest.xml
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\priconfig.xml
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\priconfig.xml.intermediate
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\layout.resfiles
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\layout.resfiles.intermediate
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\resources.resfiles
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\resources.resfiles.intermediate
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\pri.resfiles
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\pri.resfiles.intermediate
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\qualifiers.txt
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\qualifiers.txt.intermediate
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bld\Debug\ProjectArchitectures.txt
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\bin\Debug\App.build.appxrecipe
