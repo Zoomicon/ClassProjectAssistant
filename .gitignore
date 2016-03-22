@@ -1,0 +1,16 @@
+[Bb]in/
+[Oo]bj/
+[Bb]ld/
+
+*.DS_Store
+
+*.suo
+*.user
+*.sln.docstates
+
+packages/
+
+publish/
+
+.localhistory/
+.vs/
