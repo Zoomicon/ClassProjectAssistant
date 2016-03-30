@@ -1,1 +1,10 @@
 C:\Users\George\Dropbox\ClassProjectAssistant\Source\manifoldJS\projects\windows10\source\images\SplashScreen.scale-100.png|139958
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\Square44x44Logo.scale-100.png|3236
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\StoreLogo.scale-100.png|4034
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\BadgeLogo.scale-400.png|11298
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\Square71x71Logo.scale-100.png|7066
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\Square150x150Logo.scale-100.png|22428
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\StoreLogo.scale-400.png|36470
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\Wide310x150Logo.scale-100.png|51807
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\Square310x310Logo.scale-100.png|76213
+C:\Users\George\Dropbox\ClassProjectAssistant\Source\bubble_hosted_uwp\images\SplashScreen.scale-100.png|139958
