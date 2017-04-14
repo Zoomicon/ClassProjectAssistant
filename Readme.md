@@ -20,7 +20,7 @@ Read more at: [www.ClassProjectAssistant.com](http://www.ClassProjectAssistant.c
 * Application: George Birbilis / [Zoomicon](Zoomicon.com)
 * Graphics: Petros Chios / [Vignette Design](http://vignette-design.com/)
 
-![Class Project Assistant](https://github.com/Zoomicon/ClassProjectAssistant/blob/master/bubble/img/splashscreen.png|http://bubble.is/site/cpa)
+![Class Project Assistant](https://github.com/Zoomicon/ClassProjectAssistant/raw/master/bubble/img/splashscreen.png|http://bubble.is/site/cpa)
 
 
 
