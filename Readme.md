@@ -1,4 +1,5 @@
 **Project Description**
+
 Class Project Assistant is an app guiding teachers to design, manage and assess school projects.
 
 The overall purpose of this app is to motivate the new literacy model so as for both teachers and students to be active problem-solvers, better critical thinkers and communicators and thus use new media creatively to produce their own learning.
@@ -19,7 +20,7 @@ Read more at: [www.ClassProjectAssistant.com](http://www.ClassProjectAssistant.c
 * Application: George Birbilis / [Zoomicon](Zoomicon.com)
 * Graphics: Petros Chios / [Vignette Design](http://vignette-design.com/)
 
-![Class Project Assistant](Home_http://download-codeplex.sec.s-msft.com/Download/SourceControlFileDownload.ashx?ProjectName=classprojectassistant&changeSetId=7922a64956fa9eba6e1fdee94a62a2c657b96d78&itemId=bubble%2fimg%2fsplashscreen.png|http://bubble.is/site/cpa)
+![Class Project Assistant](https://github.com/Zoomicon/ClassProjectAssistant/blob/master/bubble/img/splashscreen.png|http://bubble.is/site/cpa)
 
 
 
