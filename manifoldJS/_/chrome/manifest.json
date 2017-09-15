@@ -1,0 +1,34 @@
+{
+    "manifest_version": 2,
+    "name": "Class Project Assistant",
+    "version": "0.0.1",
+    "app": {
+        "launch": {
+            "web_url": "http://cpa.bubbleapps.io/"
+        }
+    },
+    "icons": {
+        "16": "SourceControlFileDownload.ashx",
+        "32": "SourceControlFileDownload.ashx",
+        "48": "SourceControlFileDownload.ashx",
+        "54": "SourceControlFileDownload.ashx",
+        "64": "SourceControlFileDownload.ashx",
+        "72": "SourceControlFileDownload.ashx",
+        "76": "SourceControlFileDownload.ashx",
+        "90": "SourceControlFileDownload.ashx",
+        "96": "SourceControlFileDownload.ashx",
+        "106": "SourceControlFileDownload.ashx",
+        "120": "SourceControlFileDownload.ashx",
+        "128": "SourceControlFileDownload.ashx",
+        "144": "SourceControlFileDownload.ashx",
+        "152": "SourceControlFileDownload.ashx",
+        "170": "SourceControlFileDownload.ashx",
+        "180": "SourceControlFileDownload.ashx",
+        "192": "SourceControlFileDownload.ashx",
+        "256": "SourceControlFileDownload.ashx",
+        "270": "SourceControlFileDownload.ashx",
+        "360": "SourceControlFileDownload.ashx",
+        "512": "SourceControlFileDownload.ashx",
+        "1024": "SourceControlFileDownload.ashx"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-hostedwebapp": {
+            "PACKAGE_NAME": "CPA"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "CPA"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "CPA"
+        }
+    }
+}

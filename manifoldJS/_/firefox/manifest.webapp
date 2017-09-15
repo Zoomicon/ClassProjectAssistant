@@ -1,0 +1,15 @@
+{
+    "name": "CPA",
+    "description": "Class Project Assistant",
+    "launch_path": "/",
+    "icons": {
+        "16": "SourceControlFileDownload.ashx",
+        "32": "SourceControlFileDownload.ashx",
+        "48": "SourceControlFileDownload.ashx",
+        "64": "SourceControlFileDownload.ashx",
+        "90": "SourceControlFileDownload.ashx",
+        "128": "SourceControlFileDownload.ashx",
+        "256": "SourceControlFileDownload.ashx",
+        "512": "SourceControlFileDownload.ashx"
+    }
+}

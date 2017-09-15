@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.bubbleapps.cpa" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>CPA</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="http://cpa.bubbleapps.io/" />
+    <plugin name="cordova-plugin-whitelist" version="1" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <access hap-rule="yes" origin="http://cpa.bubbleapps.io/*" />
+        <allow-navigation hap-rule="yes" href="http://cpa.bubbleapps.io/*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+        <access hap-rule="yes" origin="http://cpa.bubbleapps.io/*" />
+    </platform>
+    <preference name="Orientation" value="default" />
+    <preference name="Fullscreen" value="true" />
+    <platform name="windows">
+    </platform>
+    <platform name="wp8">
+    </platform>
+</widget>
